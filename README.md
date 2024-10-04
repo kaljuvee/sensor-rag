@@ -145,7 +145,3 @@ Choose the option that best fits your organization's needs and compliance requir
 - Implement a web interface for easier interaction with the RAG system.
 - Fine-tune the language model on your specific domain data for improved response generation (if using Azure OpenAI Service).
 - Implement a change feed processor for Cosmos DB to automatically update Azure AI Search when new sensor data is added.
-
-## Support
-
-For any questions or issues, please open an issue in the GitHub repository or contact the development team.
