@@ -21,7 +21,7 @@ Both options use vector embeddings for semantic search and can generate response
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/rag-application.git
+   git clone https://github.com/<github-user>/sensor_rag.git
    cd rag-application
    ```
 
@@ -74,7 +74,7 @@ Both options use vector embeddings for semantic search and can generate response
 Run the application:
 
 ```
-python rag_application.py
+python sensor_rag.py
 ```
 
 This will:
