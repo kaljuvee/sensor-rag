@@ -3,7 +3,7 @@
 This Retrieval-Augmented Generation (RAG) application processes and integrates three types of data:
 
 1. PDF Documents: Factory operating manuals stored as PDFs.
-2. Sensor Relationship Data: Information about how sensors are related and their locations.
+2. Sensor Relationship Data: Information about how sensors are related and their locations and their dependencies / relationships to other sensors.
 3. Sensor Real-time Data: Current readings from sensors.
 
 ## Data Processing and Storage
