@@ -1,0 +1,10 @@
+python-dotenv==0.19.2
+pypdf==3.5.0
+pandas==1.4.2
+pyodbc==4.0.32
+azure-storage-blob==12.9.0
+azure-search-documents==11.4.0
+openai==0.27.0
+numpy==1.21.5
+azure-identity==1.12.0
+azure-keyvault-secrets==4.4.0
